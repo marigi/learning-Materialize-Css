@@ -18,3 +18,10 @@ border-radius: 10px;
 
   font-weight: 300;
 }
+.cta{
+  font-weight: 300;
+  text-shadow: 1px 1px black;
+}
+.contact-form {
+  padding-top: 40px;
+}
